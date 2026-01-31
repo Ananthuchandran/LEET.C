@@ -1,3 +1,3 @@
 # reverse string
 # reverse an integer
-# simple and efficient way
+# simple and efficient way!
